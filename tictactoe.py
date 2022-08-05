@@ -86,7 +86,7 @@ def main():
     num2 = int(input())
 
     tc1 = Solution()
-    ans = tc1.ic_tac_toe(num1,num2)
+    ans = tc1.tic_tac_toe(num1,num2)
     print(ans)
 
 if __name__ == "__main__":
